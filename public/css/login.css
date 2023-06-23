@@ -1,0 +1,13 @@
+.navbar{
+    width: 100%;
+    height: 44px;
+    background: rgb(248, 86, 41);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.card{
+    background: rgba(253, 162, 76, 0.945);    
+}
